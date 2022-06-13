@@ -1,6 +1,7 @@
 # selenium-python-dummy
 
 #vscode python
+
 1.extension : python | code runner
 
 2.install linter
@@ -8,11 +9,15 @@
 3.add create virtual env, ".venv"
 
 DNID1084L01:sample_python muksidini$ python3 -m venv .venv
+
 DNID1084L01:sample_python muksidini$ source .venv/bin/activate
 
 4.install selenium
+
 	pip3 install -U selenium
+	
 	pip3 install webdriver-manager
+	
 	pip3 install behave
 	
 5.run
